@@ -17,6 +17,14 @@ import {
 export default function Projects() {
   const projects = [
     {
+      title: "EventHub",
+      description:
+        "A full-stack event and hackathon management platform for managing events, registrations, teams, submissions, evaluations, leaderboards and announcements.",
+      github: "https://github.com/AkalyaG0829/eventhub-management-system",
+      live: "https://eventhub-coral-eta.vercel.app/",
+      icon: <FaCalendarAlt />,
+    },
+    {
       title: "Snake Game",
       description:
         "A classic Snake Game built with dynamic state management, real-time movement logic, keyboard controls, and score tracking.",
