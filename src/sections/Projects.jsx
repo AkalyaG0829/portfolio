@@ -11,7 +11,8 @@ import {
   FaGamepad,
   FaExternalLinkAlt,
   FaBrain,
-  FaShieldAlt
+  FaShieldAlt,
+  FaCalendarAlt
 } from "react-icons/fa";
 
 export default function Projects() {
